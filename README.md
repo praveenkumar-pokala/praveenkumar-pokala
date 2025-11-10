@@ -9,6 +9,8 @@ I’m passionate about building **intelligent systems that think, reason, and ac
 I have published **25+ research papers in top-tier conferences and journals** such as IEEE TPAMI, IEEE TSP, CVPR, ICASSP, and EMNLP — advancing work in **AI and Mathematical Optimization, Computational Imaging, and Vision-Language Modeling**.
 For **research papers, citations, and publications**, explore my [Google Scholar page](https://scholar.google.com/citations?hl=en&authuser=1&user=tgz2F38AAAAJ).
 
+For **more about my professional journey**, visit my [LinkedIn profile](https://www.linkedin.com/in/praveen-kumar-pokala-phd-73509014).  
+
 
 ---
 
@@ -34,7 +36,7 @@ For **research papers, citations, and publications**, explore my [Google Scholar
 📧 **Email:** praveenkumar.pokala@gmail.com  
 🌍 **GitHub:** [github.com/praveenkumar-pokala](https://github.com/praveenkumar-pokala)
 
-For **more about my professional journey**, visit my [LinkedIn profile](https://www.linkedin.com/in/praveen-kumar-pokala-phd-73509014).  
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=praveenkumar-pokala&show_icons=true&theme=radical)  
 ![Profile Views](https://komarev.com/ghpvc/?username=praveenkumar-pokala&color=brightgreen)
