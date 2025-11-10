@@ -13,7 +13,7 @@ With over a decade of experience spanning **AI R&D, product innovation, and lead
 - Building **Agentic AI frameworks** using LangGraph, MCP, and ReAct patterns  
 - Designing **feature-engineering and budget-pacing agents** for real-world enterprise automation  
 - Exploring the **future of orchestration, reflection, and reasoning in AI systems**  
-- Authoring a forthcoming book: *“Agentic AI Engineering: Principles to Practice*
+- Authoring a forthcoming book: *"Agentic AI Engineering: Principles to Practice"*
 
 ---
 
