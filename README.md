@@ -3,9 +3,12 @@
 🎓 **Ph.D. (IISc Bangalore)** | **M.Tech (IIT)** | **Gold Medalist & Best Thesis Award Winner**  
 🧠 **AI Researcher | Technologist | Speaker | Mentor**
 
-For **research papers, citations, and publications**, explore my [Google Scholar page](https://scholar.google.com/citations?hl=en&authuser=1&user=tgz2F38AAAAJ).
 
 I’m passionate about building **intelligent systems that think, reason, and act** — bridging the gap between research and enterprise impact.   With over a decade of experience spanning **AI R&D, product innovation, and leadership**, my work blends **Generative AI**, **Agentic Systems**, and **Multilingual Intelligence** to design **trustworthy and scalable AI architectures**.
+
+I have published **25+ research papers in top-tier conferences and journals** such as IEEE TPAMI, IEEE TSP, CVPR, ICASSP, and EMNLP, advancing work in **Vision, Language, and Agentic AI systems**.
+For **research papers, citations, and publications**, explore my [Google Scholar page](https://scholar.google.com/citations?hl=en&authuser=1&user=tgz2F38AAAAJ).
+
 
 ---
 
