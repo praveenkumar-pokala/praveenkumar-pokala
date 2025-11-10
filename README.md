@@ -3,8 +3,7 @@
 🎓 **Ph.D. (IISc Bangalore)** | **M.Tech (IIT)** | **Gold Medalist & Best Thesis Award Winner**  
 🧠 **AI Researcher | Technologist | Speaker | Mentor**
 
-I’m passionate about building **intelligent systems that think, reason, and act** — bridging the gap between research and enterprise impact.  
-With over a decade of experience spanning **AI R&D, product innovation, and leadership**, my work blends **Generative AI**, **Agentic Systems**, and **Multilingual Intelligence** to design **trustworthy and scalable AI architectures**.
+I’m passionate about building **intelligent systems that think, reason, and act** — bridging the gap between research and enterprise impact.   With over a decade of experience spanning **AI R&D, product innovation, and leadership**, my work blends **Generative AI**, **Agentic Systems**, and **Multilingual Intelligence** to design **trustworthy and scalable AI architectures**.
 
 ---
 
