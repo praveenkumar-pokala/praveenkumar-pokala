@@ -16,7 +16,7 @@ I’m passionate about building **intelligent systems that think, reason, and ac
 ---
 
 ### 🧩 Tech Ecosystem
-`Python` · `PyTorch` · `LangChain` · `Transformers` · `OpenAI API` · `FastAPI` · `Databricks` · `Streamlit` · `RAG Systems`  
+`Python` · `PyTorch` · `Agentic Frameworks` · `Transformers` · `OpenAI API` · `FastAPI` · `Databricks` · `Streamlit` · `RAG Systems`  
 
 > “I believe the next era of AI won’t just generate — it will **reason, adapt, and collaborate**.”
 
