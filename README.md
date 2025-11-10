@@ -17,4 +17,4 @@ I love designing **end-to-end intelligent systems** — from model training to o
 `Python` · `PyTorch` · `LangChain` · `OpenAI API` · `Transformers` · `Databricks` · `Streamlit` · `FastAPI` · `RAG Systems`
 
 ### 🌐 Connect
-[LinkedIn](https://linkedin.com/in/praveenkumarpokala) · [Google Scholar](https://scholar.google.com) · [Medium](https://medium.com) · [Twitter](https://twitter.com)
+[LinkedIn](https://www.linkedin.com/in/praveen-kumar-pokala-phd-73509014) · [Google Scholar](https://scholar.google.com/citations?hl=en&authuser=1&user=tgz2F38AAAAJ) 
