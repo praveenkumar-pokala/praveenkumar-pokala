@@ -1,7 +1,6 @@
 ## 👋 Hi, I'm Praveen Kumar Pokala
 
 🎓 **Ph.D. (IISc Bangalore)** | **M.Tech (IIT)** | **Gold Medalist & Best Thesis Award Winner**  
-💼 **Vice President – AI/ML @ JPMorgan Chase**  
 🧠 **AI Researcher | Technologist | Speaker | Mentor**
 
 I’m passionate about building **intelligent systems that think, reason, and act** — bridging the gap between research and enterprise impact.  
