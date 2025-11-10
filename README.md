@@ -3,6 +3,8 @@
 🎓 **Ph.D. (IISc Bangalore)** | **M.Tech (IIT)** | **Gold Medalist & Best Thesis Award Winner**  
 🧠 **AI Researcher | Technologist | Speaker | Mentor**
 
+For **research papers, citations, and publications**, explore my [Google Scholar page](https://scholar.google.com/citations?hl=en&authuser=1&user=tgz2F38AAAAJ).
+
 I’m passionate about building **intelligent systems that think, reason, and act** — bridging the gap between research and enterprise impact.   With over a decade of experience spanning **AI R&D, product innovation, and leadership**, my work blends **Generative AI**, **Agentic Systems**, and **Multilingual Intelligence** to design **trustworthy and scalable AI architectures**.
 
 ---
@@ -30,7 +32,6 @@ I’m passionate about building **intelligent systems that think, reason, and ac
 🌍 **GitHub:** [github.com/praveenkumar-pokala](https://github.com/praveenkumar-pokala)
 
 For **more about my professional journey**, visit my [LinkedIn profile](https://www.linkedin.com/in/praveen-kumar-pokala-phd-73509014).  
-For **research papers, citations, and publications**, explore my [Google Scholar page](https://scholar.google.com/citations?hl=en&authuser=1&user=tgz2F38AAAAJ).
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=praveenkumar-pokala&show_icons=true&theme=radical)  
 ![Profile Views](https://komarev.com/ghpvc/?username=praveenkumar-pokala&color=brightgreen)
