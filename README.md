@@ -25,7 +25,7 @@ For **more about my professional journey**, visit my [LinkedIn profile](https://
 ---
 
 ### 🧩 Tech Ecosystem
-`Python` · `PyTorch` · `Agentic Frameworks` · `Transformers` · `OpenAI API` · `FastAPI` · `Databricks` · `Streamlit` · `RAG Systems`  
+· `LLMs` · `VLMs` ·  `Agentic AI Frameworks` · `Python` · `PyTorch` · `Transformers` · `OpenAI API` · `FastAPI` · `Databricks` · `Streamlit` · `RAG Systems`  
 
 > “I believe the next era of AI won’t just generate — it will **reason, adapt, and collaborate**.”
 
