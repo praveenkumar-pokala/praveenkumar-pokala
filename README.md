@@ -26,7 +26,7 @@ I’m passionate about building **intelligent systems that think, reason, and ac
 
 📄 **LinkedIn:** [linkedin.com/in/praveen-kumar-pokala-phd-73509014](https://www.linkedin.com/in/praveen-kumar-pokala-phd-73509014)  
 📚 **Google Scholar:** [scholar.google.com/citations?user=tgz2F38AAAAJ](https://scholar.google.com/citations?hl=en&authuser=1&user=tgz2F38AAAAJ)  
-📧 **Email:** praveen.kumar.pokala[at]gmail.com  
+📧 **Email:** praveenkumar.pokala@gmail.com  
 🌍 **GitHub:** [github.com/praveenkumar-pokala](https://github.com/praveenkumar-pokala)
 
 For **more about my professional journey**, visit my [LinkedIn profile](https://www.linkedin.com/in/praveen-kumar-pokala-phd-73509014).  
