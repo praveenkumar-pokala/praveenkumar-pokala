@@ -33,12 +33,15 @@ For **more about my professional journey**, visit my [LinkedIn profile](https://
 
 ### 🌐 Let’s Connect
 
-📄 **LinkedIn:** [linkedin.com/in/praveen-kumar-pokala-phd-73509014](https://www.linkedin.com/in/praveen-kumar-pokala-phd-73509014)  
-📚 **Google Scholar:** [scholar.google.com/citations?user=tgz2F38AAAAJ](https://scholar.google.com/citations?hl=en&authuser=1&user=tgz2F38AAAAJ)  
-📧 **Email:** praveenkumar.pokala@gmail.com  
-🌍 **GitHub:** [github.com/praveenkumar-pokala](https://github.com/praveenkumar-pokala)
-🌍 **Medium:** [medium.com/praveenkumar-pokala]([https://medium.com/@pokalapraveeniitg])
+📄 LinkedIn: https://www.linkedin.com/in/praveen-kumar-pokala-phd-73509014
 
+📚 Google Scholar: https://scholar.google.com/citations?user=tgz2F38AAAAJ
+
+📧 Email: praveenkumar.pokala@gmail.com
+
+🌍 GitHub: https://github.com/praveenkumar-pokala
+
+✍️ Medium: https://medium.com/@pokalapraveeniitg
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=praveenkumar-pokala&show_icons=true&theme=radical)  
