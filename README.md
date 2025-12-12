@@ -37,6 +37,7 @@ For **more about my professional journey**, visit my [LinkedIn profile](https://
 📚 **Google Scholar:** [scholar.google.com/citations?user=tgz2F38AAAAJ](https://scholar.google.com/citations?hl=en&authuser=1&user=tgz2F38AAAAJ)  
 📧 **Email:** praveenkumar.pokala@gmail.com  
 🌍 **GitHub:** [github.com/praveenkumar-pokala](https://github.com/praveenkumar-pokala)
+🌍 **Medium:** [medium.com/praveenkumar-pokala]([https://medium.com/@pokalapraveeniitg])
 
 
 
