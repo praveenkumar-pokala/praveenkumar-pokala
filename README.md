@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Praveen Kumar Pokala
 
-🎓 **Ph.D. (IISc Bangalore)** | **M.Tech (IIT)**  
+🎓 **Ph.D. (IISc Bangalore)** | **M.Tech (IIT)** | **MBA (LBS)** | 
 🏅 **PhD Gold Medalist & Best Thesis Award Winner**  
 🚀 **AI Leader | Researcher | Technologist | Speaker | Mentor**
 
